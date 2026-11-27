@@ -10,7 +10,7 @@ Byron Daniel Loor Mendoza - ISR-701 Aplicaciones Distribuidas - SPA 2026-2027.
 
 ## Compilación
 
-Instalar TeX Live o MiKTeX con los paquetes `geometry`, `helvet` e `hyperref`. Desde la carpeta del repositorio:
+Instalar TeX Live o MiKTeX con la clase `IEEEtran` y los paquetes `geometry`, `helvet` e `hyperref`. Desde la carpeta del repositorio:
 
 ```sh
 git clone https://github.com/Danxxx777/GA-EXP-02--FORM---Coevaluaci-n-de-la-exposici-n.git
@@ -27,4 +27,5 @@ El archivo recibido contiene observaciones de un equipo. No incluye horarios de 
 
 ## Asistencia utilizada
 
-Codex realizó la conversión mecánica a LaTeX, la carátula, las instrucciones de compilación y la verificación técnica. Los párrafos de observaciones se conservaron literalmente del archivo suministrado por el estudiante. Codex no asignó niveles, redactó observaciones adicionales ni verificó la exposición. La guía prohíbe usar IA para redactar la coevaluación; esta declaración identifica el alcance real de la asistencia.
+Codex realizó la conversión mecánica a LaTeX, la carátula, las instrucciones de compilación y la verificación técnica. Las palabras de las observaciones se conservaron del archivo suministrado por el estudiante; se ajustaron mayúsculas y minúsculas y la separación de párrafos. El informe utiliza la clase IEEEtran en dos columnas. Codex no asignó niveles, redactó observaciones adicionales ni verificó la exposición. La guía prohíbe usar IA para redactar la coevaluación; esta declaración identifica el alcance real de la asistencia.
+
