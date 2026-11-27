@@ -27,5 +27,6 @@ El archivo recibido contiene observaciones de un equipo. No incluye horarios de 
 
 ## Asistencia utilizada
 
-Codex realizó la conversión mecánica a LaTeX, la carátula, las instrucciones de compilación y la verificación técnica. Las palabras de las observaciones se conservaron del archivo suministrado por el estudiante; se ajustaron mayúsculas y minúsculas y la separación de párrafos. El informe utiliza la clase IEEEtran en dos columnas. Codex no asignó niveles, redactó observaciones adicionales ni verificó la exposición. La guía prohíbe usar IA para redactar la coevaluación; esta declaración identifica el alcance real de la asistencia.
+Codex realizó la conversión mecánica a LaTeX, la carátula, las instrucciones de compilación y la verificación técnica. Las palabras de las observaciones se conservaron del archivo suministrado por el estudiante; se ajustaron mayúsculas y minúsculas y la separación de párrafos. El informe utiliza la clase IEEEtran en una columna. Codex no asignó niveles, redactó observaciones adicionales ni verificó la exposición. La guía prohíbe usar IA para redactar la coevaluación; esta declaración identifica el alcance real de la asistencia.
+
 
